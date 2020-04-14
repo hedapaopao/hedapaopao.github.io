@@ -16,7 +16,11 @@
 
 ## => Site Settings
 ##############################
+<<<<<<< HEAD
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+=======
+#text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+>>>>>>> ff687203e0d05026f62a961fd0a8650a60c0f794
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
@@ -102,7 +106,11 @@ paginate_path: /page:num # don't change this unless for special need
 
 ## => Sources
 ##############################
+<<<<<<< HEAD
 sources: # bootcdn (default), unpkg
+=======
+sources: bootcdn # bootcdn (default), unpkg
+>>>>>>> ff687203e0d05026f62a961fd0a8650a60c0f794
 
 
 ## => Sharing
