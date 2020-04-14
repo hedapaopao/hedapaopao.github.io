@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](https://raw.githubusercontent.com/kkninjae/book/master/github/hero.png)
 
 
@@ -76,3 +77,10 @@ $ npm run deploy
 ## End.
 
 If you like this theme, why not give it a star. :)
+=======
+# 贺大炮
+
+*这是一个blog。*
+
+科学是永无止境的，它是一个永恒之谜。
+>>>>>>> d9d20c0a7539c99f5f656d757141a36f0cc74e0f
